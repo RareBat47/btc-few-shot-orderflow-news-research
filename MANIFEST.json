@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-11-13T06:40:10.326159+00:00",
+  "run_id": "f377893c8dac",
+  "scope": "Saved BTC few-shot/order-flow/news project, completed audit/evidence and topic-named supporting research.",
+  "source_count": 42,
+  "counts_by_group": {
+    "audit": 8,
+    "btc-project": 27,
+    "supporting-research": 7
+  },
+  "authority": {
+    "current_proposal": "originals/audit/research-focus.md",
+    "correction_audit": "originals/audit/REVIEW.md",
+    "historical_material": "Original notes/searches are preserved, not newly endorsed or citation-verified."
+  },
+  "exclusions": [
+    "Credentials and runtime configuration",
+    "Other research projects",
+    "Global library contents and knowledge-base textbooks",
+    "Discord conversation transcript"
+  ],
+  "local_cache_check": {
+    "path": "/home/rarebat/ResearchStudio/library/paper-library.csv",
+    "checked": true,
+    "exists": true,
+    "uploaded": false,
+    "sha256": "75f2c02e33a1f518e1653b75c7a411c09109d961652f1a1f4f6dfc27137a7263"
+  },
+  "secret_scan": "Passed listed credential-pattern and path checks; not an absolute security guarantee.",
+  "credential_patterns_checked": [
+    "private-key",
+    "github-token",
+    "api-secret",
+    "aws-access-key",
+    "slack-token",
+    "url-password"
+  ],
+  "files": [
+    {
+      "path": "originals/audit/REVIEW.md",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/REVIEW.md",
+      "group": "audit",
+      "bytes": 52032,
+      "sha256": "9ee037375ff3b582e03b42e8d6a4e9ff62a0ef3b404f0d39532fc840859bd937",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/citation-ledger.json",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/citation-ledger.json",
+      "group": "audit",
+      "bytes": 1129045,
+      "sha256": "2795e37e683a49acb29fab36a11398e01d7fa88c214d8f0cec64c14729a42e87",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/claim-index.json",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/claim-index.json",
+      "group": "audit",
+      "bytes": 94712,
+      "sha256": "5a71f71a4535f8e7fafd3e3bda3fa671f7d25d57cf3e317fc16bde30a4593596",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/findings.json",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/findings.json",
+      "group": "audit",
+      "bytes": 22025,
+      "sha256": "9ff275ad8c5b71105446685b20a0663495ce7a29f4745b76a0cee7de2a039851",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/inventory.json",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/inventory.json",
+      "group": "audit",
+      "bytes": 30979,
+      "sha256": "6fdbc684b4cdcc5317eedde335094a33df19c4a8e608fa26b261852616d33e17",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/learning-journal.md",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/learning-journal.md",
+      "group": "audit",
+      "bytes": 1527,
+      "sha256": "4667239d08d2039422a1e0323be2f6d9921c52779306037164d74b1e2fcf49b5",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/research-focus.md",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/research-focus.md",
+      "group": "audit",
+      "bytes": 7734,
+      "sha256": "e04bbd803e860f33c830f0232723da134ebe2c88f66a14c8100dd8925d12d052",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/audit/source-evidence.json",
+      "original_path": "/home/rarebat/ResearchStudio/audits/btc-20261109T131024Z/source-evidence.json",
+      "group": "audit",
+      "bytes": 2341917,
+      "sha256": "be555af23f9f1f294f8588f11a94ce721a3847692f244ed48f66d8f2f0666af2",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/30_DAY_MASTER_PLAN.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/30_DAY_MASTER_PLAN.md",
+      "group": "btc-project",
+      "bytes": 22985,
+      "sha256": "ac9859150b525ab4ac5a0fc11ebb067f95fbc490f0b7ee20bf1f833d4b361c2f",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/BASE_PAPER_MASTER_CLASSNOTES.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/BASE_PAPER_MASTER_CLASSNOTES.md",
+      "group": "btc-project",
+      "bytes": 16916,
+      "sha256": "5b73809f64869bbabc08fa8c577a8e7e315e8390355e8f4e87e2f36a48a26b8b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/BINANCE_DATA_AND_BASE_PAPER.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/BINANCE_DATA_AND_BASE_PAPER.md",
+      "group": "btc-project",
+      "bytes": 6747,
+      "sha256": "15a88fe1d404cbd73e709622a90c9cb3b405e75c0539567e8a113158cea6837b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/DATASET_COLLECTION_SPECIFICATION.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/DATASET_COLLECTION_SPECIFICATION.md",
+      "group": "btc-project",
+      "bytes": 9390,
+      "sha256": "7c2be7bb3ee6103879ec38ce27139274fc09731d2c2099e72a8ab8af078f3778",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/DAY_01_BASE_PAPER_STUDY.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/DAY_01_BASE_PAPER_STUDY.md",
+      "group": "btc-project",
+      "bytes": 5375,
+      "sha256": "2f838ecddbad617972cdac36c0f29bec52f4c6ecbdcb05f359cdaffea3da614e",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/FEW_SHOT_LEARNING_100_ASPECTS.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/FEW_SHOT_LEARNING_100_ASPECTS.md",
+      "group": "btc-project",
+      "bytes": 2262,
+      "sha256": "b5173fb0b0929c34f279a2c4ab0d8b8e97043e85354f308b0984e56517adb4c3",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/LEARNING_JOURNAL.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/LEARNING_JOURNAL.md",
+      "group": "btc-project",
+      "bytes": 3440,
+      "sha256": "7b30bc7595ce74fcb7dc75d8d6b21e5a91d8a193e71e4f7ed107e30ca1de355d",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/MASTER_METHODOLOGY_REVISION_DOSSIER.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/MASTER_METHODOLOGY_REVISION_DOSSIER.md",
+      "group": "btc-project",
+      "bytes": 16283,
+      "sha256": "e28f909fe0a2a8df30292a0d1de4f79e06235f210b7465ead37cb64f684e12bc",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/NEWS_DATASET_TAXONOMY.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/NEWS_DATASET_TAXONOMY.md",
+      "group": "btc-project",
+      "bytes": 6606,
+      "sha256": "80c8d79f52012c87778f4425c21333d42f49a953016126917aa5ba7c6fe3435b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/PROJECT_GOAL.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/PROJECT_GOAL.md",
+      "group": "btc-project",
+      "bytes": 2752,
+      "sha256": "abfca727c52dfe31d110e28aff096e1dc266d7e5a474d6dd63fe7b6bdebc71a8",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/Q1_PEER_REVIEW_REJECTION_AUDIT.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/Q1_PEER_REVIEW_REJECTION_AUDIT.md",
+      "group": "btc-project",
+      "bytes": 10954,
+      "sha256": "6fd90160f8d0b713287eb3d8e41d944e8550e7d2679bf23ac3d316cf20e9304a",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/RESEARCH_PROPOSAL.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/RESEARCH_PROPOSAL.md",
+      "group": "btc-project",
+      "bytes": 18427,
+      "sha256": "acd5121bc946a2e29644d722874fe45813557cc7e2f0b9cf4bc5201cbdaec1e2",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/RESEARCH_QUESTIONS_AND_ANSWERS.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/RESEARCH_QUESTIONS_AND_ANSWERS.md",
+      "group": "btc-project",
+      "bytes": 136965,
+      "sha256": "f44a911df33fd1355de1cb010e48ecc65c7a21b72b776d045c26092370f3dd8b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/SLIDES_DECK.md",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/SLIDES_DECK.md",
+      "group": "btc-project",
+      "bytes": 5350,
+      "sha256": "3d4f466ff8fc514d25c7c00e36318be102c1827e2610da3bbf4524149e758fb0",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/all_news_citations.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/all_news_citations.json",
+      "group": "btc-project",
+      "bytes": 3614,
+      "sha256": "28b80bf3899972fb4d735180eec5ae8655e55d2714b31e6b68f0e87acd11567e",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/calendar_us_2021_2026.csv",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/calendar_us_2021_2026.csv",
+      "group": "btc-project",
+      "bytes": 27116,
+      "sha256": "dc05c74ce1f5ea228fb282a925e6a7b3b9314f77940e16dc197b89d2fe3b1423",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/ce_candidate_citations.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/ce_candidate_citations.json",
+      "group": "btc-project",
+      "bytes": 2959,
+      "sha256": "a579286dfed6aecdf7320d661b6b378da807fe61dc17fba336cb4af0b25525b5",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/chandelier_exit.pine",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/chandelier_exit.pine",
+      "group": "btc-project",
+      "bytes": 3396,
+      "sha256": "6f0e3155ab53c5007505bb9caa9e369d8b27d088b23a85a1e0524e71256b3d4a",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/macro_orderflow_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/macro_orderflow_papers.json",
+      "group": "btc-project",
+      "bytes": 3795,
+      "sha256": "4106bad1d2403e15c9fb509eab929a0a46a928c8e6a82c7ac5e6e252c522b41c",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/news_few_shot_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/news_few_shot_papers.json",
+      "group": "btc-project",
+      "bytes": 3566,
+      "sha256": "b562273fec7b188e80f782cbff1e56ce581100e9a4df8b9b7d8f12b711d98964",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/news_impact_ranking_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/news_impact_ranking_papers.json",
+      "group": "btc-project",
+      "bytes": 3277,
+      "sha256": "f3253bdcae8bb96db71292852ada0d048c30133cb4a7b0a2a4f33251056e5fe8",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/numerical_news_ml_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/numerical_news_ml_papers.json",
+      "group": "btc-project",
+      "bytes": 4614,
+      "sha256": "7225d9f85c3728850679a868aa568651e7e9243a7831b41165ca7ebce86747ad",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/orderflow_news_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/orderflow_news_papers.json",
+      "group": "btc-project",
+      "bytes": 2060,
+      "sha256": "341acea7093c8818d68f9af081a8dc480e5c282a4ae8a10af3788584816202cb",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/spoofing_manipulation_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/spoofing_manipulation_papers.json",
+      "group": "btc-project",
+      "bytes": 1834,
+      "sha256": "90e5e6a13870031ec9f152256d7f7d31b91d9ca54d7e988bb1299d7b2f55a204",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/vwap_ce_papers.json",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/vwap_ce_papers.json",
+      "group": "btc-project",
+      "bytes": 3372,
+      "sha256": "2b1126cb155e447abebe8b6f6998874ff1162a3da700616e3c8258eb5d19c44b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/btc-project/wood_et_al_2024_x_trend_base_paper.pdf",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/wood_et_al_2024_x_trend_base_paper.pdf",
+      "group": "btc-project",
+      "bytes": 2044662,
+      "sha256": "4c9ca4908bd6a5ab46c8c91fbb50e953a01801e2d1f6822f388d5441fac4afc0",
+      "text_access": "pdftotext -layout"
+    },
+    {
+      "path": "originals/btc-project/x_trend_base_paper_slides.html",
+      "original_path": "/home/rarebat/PORTFOLIO/Signal/BTC/x_trend_base_paper_slides.html",
+      "group": "btc-project",
+      "bytes": 18323,
+      "sha256": "64a74b8d97eddbd2bfd817bf27ee2a60d09d1b868f56bef83b7b8f5cb32f99fa",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/binance-btc-meta-labeling-spec.md",
+      "original_path": "/home/rarebat/ResearchStudio/papers/binance-btc-meta-labeling-spec.md",
+      "group": "supporting-research",
+      "bytes": 6747,
+      "sha256": "15a88fe1d404cbd73e709622a90c9cb3b405e75c0539567e8a113158cea6837b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/btc-q1-audit/evidence.json",
+      "original_path": "/home/rarebat/ResearchStudio/papers/btc-q1-audit/evidence.json",
+      "group": "supporting-research",
+      "bytes": 67642,
+      "sha256": "4022ea7934c70388ec77fc6fb7649ddc7e15532b35bc09d362b5f7ecce5f6b2d",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/btc-research-review/external-review-evidence.json",
+      "original_path": "/home/rarebat/ResearchStudio/papers/btc-research-review/external-review-evidence.json",
+      "group": "supporting-research",
+      "bytes": 2004754,
+      "sha256": "4093b871cf4622867345867b321c0a4db0a8677e06f0867280d7596003e74ade",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/btc-research-review/local-review-evidence.json",
+      "original_path": "/home/rarebat/ResearchStudio/papers/btc-research-review/local-review-evidence.json",
+      "group": "supporting-research",
+      "bytes": 248020,
+      "sha256": "da6b9465d217b6fc618ea35f354785100fa709e4651bd6312676134ed20c65fa",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/few-shot-trading-100-aspects.md",
+      "original_path": "/home/rarebat/ResearchStudio/papers/few-shot-trading-100-aspects.md",
+      "group": "supporting-research",
+      "bytes": 34804,
+      "sha256": "376e324db52f16793ff3f933300e9a2587e94321a85552fb91b64ead2d52ad50",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/news-dataset-taxonomy.md",
+      "original_path": "/home/rarebat/ResearchStudio/papers/news-dataset-taxonomy.md",
+      "group": "supporting-research",
+      "bytes": 6606,
+      "sha256": "80c8d79f52012c87778f4425c21333d42f49a953016126917aa5ba7c6fe3435b",
+      "text_access": "UTF-8 original text"
+    },
+    {
+      "path": "originals/supporting-research/sb-evidence-matrix.json",
+      "original_path": "/home/rarebat/ResearchStudio/papers/sb-evidence-matrix.json",
+      "group": "supporting-research",
+      "bytes": 24434,
+      "sha256": "4b112543540a0bbf097bff1a3a5bb35cc4cb57b7d735dd83f14b9ff73cf02ec6",
+      "text_access": "UTF-8 original text"
+    }
+  ]
+}
